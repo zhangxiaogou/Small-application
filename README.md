@@ -1,2 +1,4 @@
 # Small-application
 一些基于Python2的小应用
+1、geocoding_API是通过百度API查询地址坐标的脚本
+2、text_address用于geocoding_API测试
